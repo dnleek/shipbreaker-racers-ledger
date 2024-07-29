@@ -1,7 +1,7 @@
 # shipbreaker-racers-ledger
 A rehosting of [sariya's original racers-ledger plugin](https://web.archive.org/web/20220520234545/https://git.sariya.dev/sariya/racers-ledger#user-content-racers-ledger) for the game [Hardspace: Shipbreaker](https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/).
 
-The `RACErsLedgerRelease.zip` file is the original plugin release, but with an updated `RACErsLedger.dll` from the user `piepieonline` from the Shipbreaker discord. This new `.dll` is required as of Shipbreaker version 1.2.1. The original `RACErsLedger.dll` is also included in the `.zip` under the name `RACErsLedger.dll.old`.
+The `RACErsLedgerRelease.zip` file in the [Releases tab](https://github.com/dnleek/shipbreaker-racers-ledger/releases/tag/Release) is the original plugin release, but with an updated `RACErsLedger.dll` from the user `piepieonline` from the Shipbreaker discord. This new `.dll` is required as of Shipbreaker version 1.2.1. The original `RACErsLedger.dll` is also included in the `.zip` under the name `RACErsLedger.dll.old`.
 
 If you're interested in data visualization, [tashiww's hardspace_viewer](https://github.com/tashiww/hardspace_viewer) is a webpage that scrapes the ledger plugin and visualizes salvage over time and other useful data.
 
