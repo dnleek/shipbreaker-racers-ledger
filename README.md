@@ -20,7 +20,7 @@ Hardspace Shipbreaker.
 
 BepInEx: https://github.com/BepInEx/BepInEx/releases (You want the x64 `.zip`.)
 
-This mod (download the `RACErsLedgerRelease.zip` file in this repo)
+This mod (download the `RACErsLedgerRelease.zip` file from the [Releases tab](https://github.com/dnleek/shipbreaker-racers-ledger/releases/tag/Release) of this repo)
 
 ## Installation
 # Windows
