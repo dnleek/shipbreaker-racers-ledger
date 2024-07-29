@@ -1,5 +1,5 @@
 # shipbreaker-racers-ledger
-A rehosting of [sariya's original racers-ledger plugin](https://web.archive.org/web/20220520234545/https://git.sariya.dev/sariya/racers-ledger#user-content-racers-ledger) for the game Hardspace: Shipbreaker.
+A rehosting of [sariya's original racers-ledger plugin](https://web.archive.org/web/20220520234545/https://git.sariya.dev/sariya/racers-ledger#user-content-racers-ledger) for the game [Hardspace: Shipbreaker](https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/).
 
 The `RACErsLedgerRelease.zip` file is the original plugin release, but with an updated `RACErsLedger.dll` from the user `piepieonline` from the Shipbreaker discord. This new `.dll` is required as of Shipbreaker version 1.2.1. The original `RACErsLedger.dll` is also included in the `.zip` under the name `RACErsLedger.dll.old`.
 
