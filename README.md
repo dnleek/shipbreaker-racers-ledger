@@ -3,6 +3,8 @@ A rehosting of [sariya's original racers-ledger plugin](https://web.archive.org/
 
 The `RACErsLedgerRelease.zip` file is the original plugin release, but with an updated `RACErsLedger.dll` from the user `piepieonline` from the Shipbreaker discord. This new `.dll` is required as of Shipbreaker version 1.2.1. The original `RACErsLedger.dll` is also included in the `.zip` under the name `RACErsLedger.dll.old`.
 
+If you're interested in data visualization, [tashiww's hardspace_viewer](https://github.com/tashiww/hardspace_viewer) is a webpage that scrapes the ledger plugin and visualizes salvage over time and other useful data.
+
 The original plugin's README is as below, with minor modifications (link fixes, etc.). Note that I have not tested anything other than installing this mod on Windows.
 
 # RACErs Ledger
@@ -16,7 +18,7 @@ It can:
 # Requirements
 Hardspace Shipbreaker.
 
-BepInEx: https://github.com/BepInEx/BepInEx/releases (You want the x64 .zip.)
+BepInEx: https://github.com/BepInEx/BepInEx/releases (You want the x64 `.zip`.)
 
 This mod (download the `RACErsLedgerRelease.zip` file in this repo)
 
@@ -31,7 +33,7 @@ If the `plugins` directory within `Hardspace Shipbreaker\BepInEx` does not yet e
 # Linux
 Follow the Windows instructions. Afterwards you need to enable the DLL override.
 
-For this either follow [the official instructions of BepInEx](https://docs.bepinex.dev/v5.4.16/articles/advanced/proton_wine.html) or do it manually.
+For this either follow [the official instructions of BepInEx](https://docs.bepinex.dev/articles/advanced/proton_wine.html) or do it manually.
 
 In order to manually enable the override open `steamapps/compatdata/1161580/pfx/user.reg` in a text editor and go to section [Software\\Wine\\DllOverrides]. Add a line to it:
 
